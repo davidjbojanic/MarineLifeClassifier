@@ -1,5 +1,4 @@
 import React from "react";
-import PredictionResults from "./PredictionResults";
 
 function SubmitButton({onClick}) {
     

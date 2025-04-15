@@ -1,7 +1,6 @@
 
 import './App.css';
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import AnalysisTable from './components/AnalysisTable';
 import Header from './components/Header';
 import Visualizations from './components/Visualizations';
